@@ -18,3 +18,23 @@ D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\ISEM 501\ISEM 501\bin\Micro
 D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\ISEM 501\ISEM 501\obj\Debug\ISEM 501.csprojResolveAssemblyReference.cache
 D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\ISEM 501\ISEM 501\obj\Debug\ISEM 501.dll
 D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\ISEM 501\ISEM 501\obj\Debug\ISEM 501.pdb
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\csc.exe
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\System.Collections.Immutable.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\vbc.exe
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\VBCSCompiler.exe
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\roslyn\VBCSCompiler.exe.config
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\ISEM 501.dll.config
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\ISEM 501.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\ISEM 501.pdb
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\obj\Debug\ISEM 501.csprojResolveAssemblyReference.cache
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\obj\Debug\ISEM 501.dll
+D:\Shalina\Harrisburg\Subjects\ISEM 501\FinalProject\Git\ISEM 501\ISEM 501\obj\Debug\ISEM 501.pdb

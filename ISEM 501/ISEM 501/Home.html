@@ -4,6 +4,8 @@
     <title></title>
     <meta charset="utf-8" />
     <link href="style/style.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="script/script.js"></script>
 </head>
 <body>
     <div class="container">
@@ -16,12 +18,12 @@
                             <td class="menu">
                                 <table border="0" class="menu-layout" cellpadding="10" cellspacing="5">
                                     <tr>
-                                        <td><a href="#">Home</a></td>
-                                        <td><a href="#">Services</a></td>
-                                        <td><a href="#">Careers</a></td>
-                                        <td><a href="#">Sitemap</a></td>
-                                        <td><a href="#">About Us</a></td>
-                                        <td><a href="#">Contact Us</a></td>
+                                        <td><a href="#" onclick="navigate('home');">Home</a></td>
+                                        <td><a href="#Services.html" onclick="navigate('services');">Services</a></td>
+                                        <td><a href="#Careers.html" onclick="navigate('careers');">Careers</a></td>
+                                        <td><a href="#Sitemap.html" onclick="navigate('sitemap');">Sitemap</a></td>
+                                        <td><a href="#AboutUs.html" onclick="navigate('aboutus');">About Us</a></td>
+                                        <td><a href="#ContactUs.html" onclick="navigate('contactus');">Contact Us</a></td>
                                     </tr>
                                 </table>
                             </td>
@@ -32,15 +34,28 @@
             <tr>
                 <td class="nav">
                     <ul class="nav-layout">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Sitemap</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#" onclick="navigate('home');">Home</a></li>
+                        <li><a href="#Services.html" onclick="navigate('services');">Services</a></li>
+                        <li><a href="#Careers" onclick="navigate('careers');">Careers</a></li>
+                        <li><a href="#Sitemap" onclick="navigate('sitemap');">Sitemap</a></li>
+                        <li><a href="#AboutUs" onclick="navigate('aboutus');">About Us</a></li>
+                        <li><a href="#ContactUs" onclick="navigate('contactus');">Contact Us</a></li>
                     </ul>
                 </td>
-                <td class="content"></td>
+                <td class="content">
+                    <div class="home-content">
+                        <h2>Home</h2>
+                        <p>Welcome to <b>Staffing Solutions!!</b></p>
+
+                        <p>
+                            We provide end to end staffing solutions.
+                        </p>
+
+                        <p>
+                            We provide eligible staff to the employers and provide suitable opportunity to a job seeker as per profile.
+                        </p>
+                    </div>
+                </td>
             </tr>
         </table>
     </div>
